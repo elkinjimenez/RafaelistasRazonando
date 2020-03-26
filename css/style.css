@@ -4,3 +4,15 @@
 .foto-nino{
     max-width: 400px;
 }
+
+.scratch {
+    max-height: 100px;
+}
+
+.comprension-img {
+    min-height: 200px;
+}
+
+.series-img {
+    max-height: 180px;
+}
